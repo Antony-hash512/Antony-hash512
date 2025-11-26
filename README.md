@@ -8,7 +8,7 @@
 - 📦 **AUR Helper:** Paru
 
 ### My Gemini's deepresearches to share:
-- https://gemini.google.com/share/20d5ff58d7f0
+- [FLUX 2 vs FLUX 1 ](https://gemini.google.com/share/20d5ff58d7f0)
 
 ### Statistics
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ВАШ_НИК&show_icons=true&theme=dark)-->
