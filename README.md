@@ -6,6 +6,11 @@
 - 🐚 **Shell:** Fish
 - 📝 **Editor:** Neovim
 - 📦 **AUR Helper:** Paru
+### My dotfiles
+- [Antony-hash512_dotfiles](https://github.com/Antony-hash512/Antony-hash512_dotfiles)
+### My fish functions
+- [Fish_functions_collection](https://github.com/Antony-hash512/Fish_functions_collection)
+- [Fish_functions_collection_for_DSM](https://github.com/Antony-hash512/Fish_functions_collection_for_DSM)
 
 ### My Gemini's deepresearches to share:
 - [FLUX 2 vs FLUX 1 ](https://gemini.google.com/share/20d5ff58d7f0)
