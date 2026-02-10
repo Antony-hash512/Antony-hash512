@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### Привет! 👋 Я использую Arch, кстати.
+### 👋 I use Arch, btw.
 
 - 🐧 **OS:** Arch Linux
 - 🐚 **Shell:** Fish
