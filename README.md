@@ -9,6 +9,8 @@
 - 🐍 **Python helper:** uv
 - 🐳 **Containerization:** Docker
 - 🦀 **Favorite language**: Rust
+- 🎮 **Favorite game engine:** Godot
+- 🎨 **Favorite 3D software:** Blender
 
 ### My dotfiles
 - [Antony-hash512_dotfiles](https://github.com/Antony-hash512/Antony-hash512_dotfiles)
