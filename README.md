@@ -10,7 +10,10 @@
 - 🐳 **Containerization:** Docker
 - 🦀 **Favorite language**: Rust
 - 🎮 **Favorite game engine:** Godot
-- 🎨 **Favorite 3D software:** Blender
+- 🐵 **Favorite 3D software:** Blender
+- 🎨 **Favorite AI image generator:** ComfyUI
+- 💻 **Favorite Virtual Machine:** QEMU/KVM
+
 
 ### My dotfiles
 - [Antony-hash512_dotfiles](https://github.com/Antony-hash512/Antony-hash512_dotfiles)
