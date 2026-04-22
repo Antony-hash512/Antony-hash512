@@ -11,7 +11,7 @@
 - 🦀 **Favorite language**: Rust
 - 🎮 **Favorite game engine:** Godot
 - 🐵 **Favorite 3D software:** Blender
-- 🎨 **Favorite AI image generator:** ComfyUI
+- 🎨 **Favorite AI image/video generator:** ComfyUI
 - 💻 **Favorite Virtual Machine:** QEMU/KVM
 
 
