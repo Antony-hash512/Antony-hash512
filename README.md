@@ -6,6 +6,10 @@
 - 🐚 **Shell:** Fish
 - 📝 **Editor:** Neovim
 - 📦 **AUR Helper:** Paru
+- 🐍 **Python helper:** uv
+- 🐳 **Containerization:** Docker
+- 🦀 **Favorite language**: Rust
+
 ### My dotfiles
 - [Antony-hash512_dotfiles](https://github.com/Antony-hash512/Antony-hash512_dotfiles)
 ### My fish functions
