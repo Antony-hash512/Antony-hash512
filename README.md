@@ -8,7 +8,7 @@
 - 📦 **AUR Helper:** [Paru](https://github.com/morganamilo/paru)
 - 🐍 **Python helper:** [uv](https://github.com/astral-sh/uv)
 - 🐳 **Containerization:** [Docker](https://github.com/docker)
-- 🎞️ **Video/Audio encoding:** [FFMPEG](https://github.com/FFmpeg/FFmpeg)
+- 🎞️ **Video/Audio encoding:** [FFmpeg](https://github.com/FFmpeg/FFmpeg)
 - 🦀 **Favorite language**: [Rust](https://github.com/rust-lang)
 - 🎮 **Favorite game engine:** [Godot](https://github.com/godotengine)
 - 🐵 **Favorite 3D software:** [Blender](https://projects.blender.org/blender/blender.git)
