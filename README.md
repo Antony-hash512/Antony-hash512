@@ -2,17 +2,17 @@
 
 ### 👋 I use Arch, btw.
 
-- 🐧 **OS:** Arch Linux
-- 🐚 **Shell:** Fish
-- 📝 **Editor:** Neovim
-- 📦 **AUR Helper:** Paru
-- 🐍 **Python helper:** uv
-- 🐳 **Containerization:** Docker
-- 🦀 **Favorite language**: Rust
-- 🎮 **Favorite game engine:** Godot
-- 🐵 **Favorite 3D software:** Blender
-- 🎨 **Favorite AI image/video generator:** ComfyUI
-- 💻 **Favorite Virtual Machine:** QEMU/KVM
+- 🐧 **OS:** [Arch Linux](https://github.com/archlinux)
+- 🐚 **Shell:** [Fish](https://github.com/fish-shell)
+- 📝 **Editor:** [Neovim](https://github.com/neovim)
+- 📦 **AUR Helper:** [Paru](https://github.com/morganamilo/paru)
+- 🐍 **Python helper:** [uv](https://github.com/astral-sh/uv)
+- 🐳 **Containerization:** [Docker](https://github.com/docker)
+- 🦀 **Favorite language**: [Rust](https://github.com/rust-lang)
+- 🎮 **Favorite game engine:** [Godot](https://github.com/godotengine)
+- 🐵 **Favorite 3D software:** [Blender](https://projects.blender.org/blender/blender.git)
+- 🎨 **Favorite AI image/video generator:** [ComfyUI](https://github.com/Comfy-Org)
+- 💻 **Favorite Virtual Machine:** [QEMU](https://github.com/qemu)
 ### My github page:
 - [ >>> Antony-hash512 <<< ](https://antony-hash512.github.io/)
 
