@@ -8,10 +8,13 @@
 - 📦 **AUR Helper:** [Paru](https://github.com/morganamilo/paru)
 - 🐍 **Python helper:** [uv](https://github.com/astral-sh/uv)
 - 🐳 **Containerization:** [Docker](https://github.com/docker)
+- 🎞️ **Video/Audio encoding:** [FFMPEG](https://github.com/FFmpeg/FFmpeg)
 - 🦀 **Favorite language**: [Rust](https://github.com/rust-lang)
 - 🎮 **Favorite game engine:** [Godot](https://github.com/godotengine)
 - 🐵 **Favorite 3D software:** [Blender](https://projects.blender.org/blender/blender.git)
 - 🎨 **Favorite AI image/video generator:** [ComfyUI](https://github.com/Comfy-Org)
+- 🪄 **Favorite Video Upscaler:** [RealESRGAN](https://github.com/xinntao/Real-ESRGAN)
+- ✂️ **Favorite Video Editor:** [Shotcut](https://github.com/mltframework/shotcut)
 - 💻 **Favorite Virtual Machine:** [QEMU](https://github.com/qemu)
 ### My github page:
 - [ >>> Antony-hash512 <<< ](https://antony-hash512.github.io/)
