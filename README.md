@@ -11,6 +11,7 @@
 - 🎞️ **Video/Audio encoding:** [FFmpeg](https://github.com/FFmpeg/FFmpeg)
 - 🐵 **3D Editor:** [Blender](https://projects.blender.org/blender/blender.git)
 - 🦀 **Favorite language**: [Rust](https://github.com/rust-lang)
+- 🖌️ **Favorite graphical editor**: [Krita](https://github.com/kde/krita)
 - 🎮 **Favorite game engine:** [Godot](https://github.com/godotengine)
 - 🎨 **Favorite AI image/video generator:** [ComfyUI](https://github.com/Comfy-Org)
 - 🪄 **Favorite Video Upscaler:** [RealESRGAN](https://github.com/xinntao/Real-ESRGAN)
