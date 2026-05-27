@@ -26,7 +26,7 @@
 - [Fish_functions_collection](https://github.com/Antony-hash512/Fish_functions_collection)
 - [Fish_functions_collection_for_DSM](https://github.com/Antony-hash512/Fish_functions_collection_for_DSM)
 
-### My Gemini's deepresearches to share:
+### Etc:
 - [FLUX 2 vs FLUX 1 ](https://gemini.google.com/share/20d5ff58d7f0)
 
 ### Statistics
